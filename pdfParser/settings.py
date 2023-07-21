@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-xah96sap#$b2y&rq#2n1ea8qn@a=a(d&z6k0924)kwd%uw^s-^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'pdf-parser-django.onrender.com']
 
 
 # Application definition
